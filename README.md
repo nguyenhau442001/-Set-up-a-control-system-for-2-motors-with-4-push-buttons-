@@ -1,5 +1,6 @@
 # -Set-up-a-control-system-for-2-motors-with-4-push-buttons-
-Link simulation: https://www.youtube.com/watch?v=LzpI-OVuoXc&t=2s
+Link simulation: https://www.youtube.com/watch?v=LzpI-OVuoXc&t=2s.
+
 When pressing the NEXT button, the car moves forward, if you continue to press and hold, the car accelerates, when
 If no longer press, the car stops. If you want to continue running, press again.
 When the ERROR button is pressed, the car goes backwards, if you keep pressing and holding it, the car going in reverse accelerates,
